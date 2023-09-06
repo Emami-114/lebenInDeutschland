@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.lebenindeutschland'
+    namespace 'com.emami.lebenindeutschland'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.lebenindeutschland"
+        applicationId "com.emami.lebenindeutschland"
         minSdk 29
         targetSdk 33
         versionCode 1
